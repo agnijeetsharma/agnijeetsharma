@@ -5,6 +5,7 @@
   ## 🏆 GitHub Trophies
 
 ![GitHub trophies](https://github-profile-trophy.vercel.app/?username=agnijeetsharma&theme=dracula&margin-w=15)
+[![An image of @agnijeetsharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/agnijeetsharma)](https://holopin.io/@agnijeetsharma)
 
 
 
