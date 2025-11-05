@@ -29,10 +29,10 @@ I’m a full-stack developer with a strong foundation in **React**, **Node.js**,
   <a href="https://www.linkedin.com/in/agnijeet-sharma-a58505259/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/abhic205" target="_blank">
+  <a href="https://codeforces.com/profile/_agni_3753" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-%23F44336.svg?&style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u//" target="_blank">
+  <a href="https://leetcode.com/u/agnijeet113/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%2300CCBB.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
@@ -62,6 +62,10 @@ I’m a full-stack developer with a strong foundation in **React**, **Node.js**,
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+
+
 
 
 ### 🎨 Frontend Styling  
